@@ -2,3 +2,4 @@ RESOLUSI
 1. Membuat App. web
 2. Migrasi app. SITD PMI utk UTD RS
 3. Custom Database buat UTDRS
+4. Penyesuain SITD dengan design database UTDRS 
